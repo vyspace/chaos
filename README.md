@@ -1,2 +1,2 @@
-# web_entirety
-node an html5 entire project
+# chaos
+node.js and html5 entire project
